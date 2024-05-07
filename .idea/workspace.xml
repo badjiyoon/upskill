@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 초기작업 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/upskill.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH1/BJ_10869.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH1/BJ_10998.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH1/BJ_2588.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_2525.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_2884.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_9498.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +24,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "badjiyoon"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e6f58fcd-56cd-4074-838d-17ecca68ca44" />
+        <option name="url" value="https://github.com/badjiyoon/upskill.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/CH1/BJ_1000.js" root0="FORCE_HIGHLIGHTING" />
@@ -78,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715084490782</updated>
       <workItem from="1715084491813" duration="901000" />
-      <workItem from="1715085400292" duration="1471000" />
+      <workItem from="1715085400292" duration="6611000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -88,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715085318720</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="김지윤 / 초기작업 추가">
+      <option name="closed" value="true" />
+      <created>1715086918024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086918024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="김지윤 / 초기작업 추가">
+      <option name="closed" value="true" />
+      <created>1715086928873</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715086928873</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
