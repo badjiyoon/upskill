@@ -4,4 +4,4 @@
 **/._.DS_Store
 
 # web storm
-.idea/**/workspace.xml
+*.idea
