@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_1152.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_11720.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_1316.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_1546.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_2675.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH1/BJ_2908.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +73,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Node.js.BJ_1546.js">
     <configuration name="BJ_1000.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH1/BJ_1000.js" working-dir="$PROJECT_DIR$/CH1">
+      <method v="2" />
+    </configuration>
+    <configuration name="BJ_1546.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH1/BJ_1546.js" working-dir="$PROJECT_DIR$/CH1">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.BJ_1546.js" />
         <item itemvalue="Node.js.BJ_1000.js" />
       </list>
     </recent_temporary>
@@ -92,7 +102,9 @@
       <workItem from="1715694558612" duration="3832000" />
       <workItem from="1716114754145" duration="612000" />
       <workItem from="1716721169209" duration="37000" />
-      <workItem from="1716721212577" duration="959000" />
+      <workItem from="1716721212577" duration="1703000" />
+      <workItem from="1716725723259" duration="32000" />
+      <workItem from="1716725760201" duration="5956000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -126,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715092617557</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1716722298932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716722298932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
