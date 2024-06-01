@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
-      <change afterPath="$PROJECT_DIR$/CH2/Queue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH2/testQueue.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +104,8 @@
       <workItem from="1716725723259" duration="32000" />
       <workItem from="1716725760201" duration="5956000" />
       <workItem from="1716811950599" duration="47000" />
-      <workItem from="1716812002607" duration="2463000" />
+      <workItem from="1716812002607" duration="2608000" />
+      <workItem from="1716978011970" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -156,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716811964217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1716820309245</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716820309245</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
