@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
-      <change afterPath="$PROJECT_DIR$/CH2/pqTest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH2/priorityqueue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/selectionSort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +125,7 @@
       <workItem from="1717241206755" duration="44000" />
       <workItem from="1717241256147" duration="1326000" />
       <workItem from="1717416039441" duration="1259000" />
-      <workItem from="1717508470686" duration="3681000" />
+      <workItem from="1717508470686" duration="3889000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -203,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717241302473</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1717513009179</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717513009179</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
