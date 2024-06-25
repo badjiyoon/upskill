@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
-      <change afterPath="$PROJECT_DIR$/CH3/BubbleSort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/InserctionSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/BJ_11004.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/BJ_2750.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/BJ_2751.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/BJ_2752.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/MergeSort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH3/jslib.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CH3/selectionSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/CH3/SelectionSort.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,60 +57,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Node.js.BubbleSort.js.executor": "Run",
-    "Node.js.InserctionSort.js.executor": "Run",
-    "Node.js.SelectionSort.js.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "javascript.nodejs.core.library.configured.version": "21.7.3",
-    "javascript.nodejs.core.library.typings.version": "20.14.2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "yarn",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Node.js.BubbleSort.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.InserctionSort.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.MergeSort.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.SelectionSort.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.jslib.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.7.3&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.14.2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Node.js.InserctionSort.js">
+}</component>
+  <component name="RunManager" selected="Node.js.jslib.js">
     <configuration name="BubbleSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH3/BubbleSort.js" working-dir="$PROJECT_DIR$/CH3">
       <method v="2" />
     </configuration>
     <configuration name="InserctionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH3/InserctionSort.js" working-dir="$PROJECT_DIR$/CH3">
       <method v="2" />
     </configuration>
+    <configuration name="MergeSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH3/MergeSort.js" working-dir="$PROJECT_DIR$/CH3">
+      <method v="2" />
+    </configuration>
     <configuration name="SelectionSort.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH3/SelectionSort.js" working-dir="$PROJECT_DIR$/CH3">
       <method v="2" />
     </configuration>
-    <configuration name="pqTest.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH2/pqTest.js" working-dir="$PROJECT_DIR$/CH2">
-      <method v="2" />
-    </configuration>
-    <configuration name="testQueue.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH2/testQueue.js" working-dir="$PROJECT_DIR$/CH2">
+    <configuration name="jslib.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CH3/jslib.js" working-dir="$PROJECT_DIR$/CH3">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.jslib.js" />
+        <item itemvalue="Node.js.MergeSort.js" />
         <item itemvalue="Node.js.InserctionSort.js" />
         <item itemvalue="Node.js.SelectionSort.js" />
         <item itemvalue="Node.js.BubbleSort.js" />
-        <item itemvalue="Node.js.pqTest.js" />
-        <item itemvalue="Node.js.testQueue.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
       </set>
     </attachedChunks>
   </component>
@@ -140,7 +146,17 @@
       <workItem from="1717676971983" duration="83000" />
       <workItem from="1717677063961" duration="877000" />
       <workItem from="1717683196477" duration="30000" />
-      <workItem from="1717683232322" duration="1309000" />
+      <workItem from="1717683232322" duration="1464000" />
+      <workItem from="1717842701560" duration="3612000" />
+      <workItem from="1717860233626" duration="24000" />
+      <workItem from="1717931218357" duration="5819000" />
+      <workItem from="1718114144841" duration="1098000" />
+      <workItem from="1718202086909" duration="886000" />
+      <workItem from="1718885766789" duration="13000" />
+      <workItem from="1718885792714" duration="751000" />
+      <workItem from="1719147888976" duration="2177000" />
+      <workItem from="1719231331645" duration="1315000" />
+      <workItem from="1719322932136" duration="2258000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -238,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717676906597</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1717684677993</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684677993</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
