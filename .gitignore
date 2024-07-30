@@ -3,6 +3,8 @@
 **/.DS_Store
 **/._.DS_Store
 
+.idea
+.idea/workspace.xml
+
 # web storm
-*.idea
 node_modules
