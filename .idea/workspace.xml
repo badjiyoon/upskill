@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
-      <change afterPath="$PROJECT_DIR$/CH3/BJ_11004.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/BJ_2750.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/BJ_2751.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/BJ_2752.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/MergeSort.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH3/jslib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_11047.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_11399.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_1541.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_16953.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_2839.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +67,12 @@
     &quot;Node.js.jslib.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;21.7.3&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.14.2&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.9.3&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -113,7 +113,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
       </set>
     </attachedChunks>
   </component>
@@ -157,6 +157,28 @@
       <workItem from="1719147888976" duration="2177000" />
       <workItem from="1719231331645" duration="1315000" />
       <workItem from="1719322932136" duration="2258000" />
+      <workItem from="1723376006051" duration="818000" />
+      <workItem from="1724159350478" duration="22000" />
+      <workItem from="1724159406115" duration="4929000" />
+      <workItem from="1724245026979" duration="2126000" />
+      <workItem from="1724575488544" duration="16000" />
+      <workItem from="1724586698245" duration="600000" />
+      <workItem from="1724853291992" duration="44000" />
+      <workItem from="1725275885844" duration="1659000" />
+      <workItem from="1725455651854" duration="3157000" />
+      <workItem from="1728307731742" duration="41000" />
+      <workItem from="1728307812397" duration="21000" />
+      <workItem from="1728308778248" duration="661000" />
+      <workItem from="1728472684546" duration="56000" />
+      <workItem from="1729085794748" duration="956000" />
+      <workItem from="1729254257393" duration="1739000" />
+      <workItem from="1729258902896" duration="24000" />
+      <workItem from="1731671735549" duration="17000" />
+      <workItem from="1731671769542" duration="876000" />
+      <workItem from="1732532656680" duration="613000" />
+      <workItem from="1732533622801" duration="861000" />
+      <workItem from="1732714157109" duration="81000" />
+      <workItem from="1733142024912" duration="2501000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
@@ -262,7 +284,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717684677993</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1722341924898</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1722341924898</updated>
+    </task>
+    <task id="LOCAL-00015" summary="김지윤 / 작업 내용 추가">
+      <option name="closed" value="true" />
+      <created>1722341967404</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1722341967404</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
