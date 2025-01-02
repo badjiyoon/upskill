@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41898ccd-f18f-4d06-ae83-30b543bb5eec" name="변경" comment="김지윤 / 작업 내용 추가">
-      <change afterPath="$PROJECT_DIR$/CH4/BJ_11047.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH4/BJ_11399.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH4/BJ_1541.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH4/BJ_16953.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CH4/BJ_2839.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_1789.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CH4/BJ_1946.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +110,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
       </set>
     </attachedChunks>
   </component>
@@ -178,7 +175,12 @@
       <workItem from="1732532656680" duration="613000" />
       <workItem from="1732533622801" duration="861000" />
       <workItem from="1732714157109" duration="81000" />
-      <workItem from="1733142024912" duration="2501000" />
+      <workItem from="1733142024912" duration="4630000" />
+      <workItem from="1733578595483" duration="71000" />
+      <workItem from="1735726379627" duration="57000" />
+      <workItem from="1735726494034" duration="740000" />
+      <workItem from="1735816497074" duration="44000" />
+      <workItem from="1735816821815" duration="3952000" />
     </task>
     <task id="LOCAL-00001" summary="김지윤 / 초기작업 추가">
       <option name="closed" value="true" />
